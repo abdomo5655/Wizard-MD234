@@ -23,8 +23,8 @@ global.herokuapp = process.env.HEROKU_APP_NAME
 let fake = process.env.OWNER_NUMBER
 global.owner = [`${fake}`]
 global.wame = "https://github.com/Ajmal-Achu/Wizard-MD"
-global.pemilik = ['918590508376']
-global.premium = ['918590508376']
+global.pemilik = ['212632210863']
+global.premium = ['212632210863']
 global.pengguna = process.env.USER_NAME
 global.footer = process.env.WATERMARK
 global.watermark = process.env.WATERMARK
@@ -32,7 +32,7 @@ global.logo = process.env.LOGO
 global.botname = process.env.BOT_NAME
 global.caption = process.env.CAPTION
 global.ownername = process.env.OWNER_NAME
-global.tutorial = "https://youtu.be/hHQRs_eCoXM"
+global.tutorial = "https://youtube.com"
 global.youtube = "github.com/Ajmal-Achu"
 global.packname = process.env.STICKER_PACK_NAME
 global.logo = process.env.LOGO
@@ -90,8 +90,8 @@ emeraldawal: 5,
 umpanawal: 5,
 potionawal: 1
 }
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://i.imgur.com/XJJcmyA.jpg' }
+global.vid = { url: 'https://i.imgur.com/XJJcmyA.jpg' }
 
 //—————「 Set Random Image Menu 」—————//
 
